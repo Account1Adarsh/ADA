@@ -6,6 +6,7 @@ int main(){
     int n=8;
     int arr[8];
     int arr2[8];
+    cout<<"Yo program is being executed"<<endl;
     for(int i=0;i<8;i++) cin>>arr[i];
     for(int i=0;i<8;i++) cin>>arr2[i];
     
